@@ -13,10 +13,10 @@ Import this Vault to Obsidian, the important files are:
 	[Singles](Singles.md)  
 	[Unnoficial](Unnoficial.md)  
 
-![[1Graph.png]]
+![Graph](scr/1Graph.png)
 
-![[2lyrics.png]]
+![Lyrics](scr/2lyrics.png)
 
-![[3quote.png]]
+![Quote](scr/3quote.png)
 
-![[4keyword.png]]
+![KeyWord](scr/4keyword.png)
