@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "29d022e83bcba649",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c57c175ea39fff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb8cab7910aa546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Ferramentas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "386bde1384c297cd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "596a77682be79909",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "befbabfdf4712cdb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1838d507f823e31b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "94b760236398c4b5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b880ca2b3767837f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2218b8dee5dd5037",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Ferramentas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b8e12def738ecb16",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Ferramentas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc0db2229e7f4f99",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Ferramentas.md"
+          }
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "feb8cab7910aa546",
+  "lastOpenFiles": [
+    "Consumismo/Cabelo.md",
+    "Rotina/2023-03-24.md",
+    "Faculdade/Matérias/Calc1/Calculo 1.md",
+    "Faculdade/Datas.md",
+    "Faculdade/Matérias/Arquitetura/datas.md",
+    "Faculdade/Matérias/paradigmas/Trabalho/structure.md",
+    "Faculdade/Faculdade - Centro.md",
+    "Faculdade/Matérias/Matemática Discreta/Discreta - Centro.md",
+    "Faculdade/Horário.md",
+    "Consumismo/Roupas.md",
+    "Consumismo/Perfumes.md"
+  ]
+}

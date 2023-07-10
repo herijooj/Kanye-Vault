@@ -1,0 +1,16 @@
+{
+  "snippets_file": "centeredtext: <p style=\"text-align: center;\">here</p>\n\nhaskellsnip: ```haskell\n\n```",
+  "snippets": [
+    "centeredtext: <p style=\"text-align: center;\">here</p>",
+    "haskellsnip: ```haskell",
+    "```"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

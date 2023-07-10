@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "29d022e83bcba649",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb52a5a816792722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0819cfff765d3bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38e84063c279ad7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "202fc75988f7cbeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4689390f9fd6ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d55dd6fe4993b40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "life of the party",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0721e91d4f2f6fc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d3917aa88c95bc2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "522a462eaf05613c",
+        "type": "tabs",
+        "dimension": 51.777777777777786,
+        "children": [
+          {
+            "id": "3687b0c9d8413f95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timeline/Timeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bf818c4ed17f0ce9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Timeline/Timeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd30e1149a45546a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "291c9f4108274d79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Timeline/Timeline.md"
+              }
+            }
+          },
+          {
+            "id": "5b3454ee5ec2bf96",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f0cb2d588a75a2e",
+        "type": "tabs",
+        "dimension": 48.222222222222214,
+        "children": [
+          {
+            "id": "e8877acb7cce848b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Timeline/Timeline.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Lyrics/1. The College Dropout\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13417216
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/2. Late Registration\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 794166
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/3. Graduation\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8871126
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/4. 808s & Heartbreak\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10523317
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/5. My Beautiful Dark Twisted Fantasy\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11473426
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/6. Yeezus\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15066338
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/7. The Life of Pablo\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14383647
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/8. Ye\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2403949
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/9. Jesus Is King\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7935
+                      }
+                    },
+                    {
+                      "query": "path:\"Lyrics/10. Donda\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0.1,
+                  "nodeSizeMultiplier": 1.01875,
+                  "lineSizeMultiplier": 1.01875,
+                  "collapse-forces": false,
+                  "centerStrength": 0.25,
+                  "repelStrength": 8.02083333333333,
+                  "linkStrength": 0.598958333333333,
+                  "linkDistance": 30,
+                  "scale": 0.07027015355115979,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "graph:Abrir visualização em gráfico": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Abrir a troca rápida": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
+    }
+  },
+  "active": "0819cfff765d3bf3",
+  "lastOpenFiles": [
+    "Kanye Vault.md",
+    "Lyrics/Singles/Burn Everthing.md",
+    "Singles.md",
+    "Unnoficial.md",
+    "MixTapes.md",
+    "Collaborations.md",
+    "Albums.md",
+    "Timeline/Timeline.md",
+    "Lyrics/Unnoficial/Someday We All Be Free.md",
+    "Lyrics/Unnoficial/530.md",
+    "Lyrics/Albums/10. Donda/10. Believe What I Say.md",
+    "Lyrics/Albums/6. Yeezus/10. Bound 2.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/KeyWords/SNL.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Tell them Yeezy said they can kiss my whole ass.md",
+    "Lyrics/Singles/City of Gods.md",
+    "Lyrics/Albums/10. Donda/32. Keep My Spirit Alive Pt. 2.md",
+    "Lyrics/Albums/10. Donda/31. Never Abandon Your Family.md",
+    "Lyrics/Albums/10. Donda/30. Remote Control Pt. 2.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/10. Hell of a Life.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/7. So Apalled.md",
+    "Lyrics/Singles/Eazy.md",
+    "Lyrics/Singles/FourFiveSeconds.md",
+    "Lyrics/Albums/9. Jesus Is King/5. On God.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/If God had an iPod, I'd be on his playlist.md",
+    "Lyrics/Albums/10. Donda/29. Up From The Ashes.md",
+    "Lyrics/Albums/10. Donda/28. Life of the Party.md",
+    "Lyrics/Unnoficial/Snips",
+    "Lyrics/Albums/4. 808s & Heartbreak/Keywords",
+    "Lyrics/Albums/7. The Life of Pablo/KeyWords",
+    "Lyrics/Albums/8. Ye/KeyWords",
+    "Lyrics/Albums/10. Donda/Deluxe",
+    "Lyrics/Singles/Keywords",
+    "Lyrics/Singles/Snips",
+    "Lyrics/MixTapes/3. Kon The Louis Vuitton Don",
+    "Lyrics/MixTapes/Sem título",
+    "Timeline",
+    "scr/Kanye.jpg",
+    "a6432b84a7899ad6f0faa9b6694bf83c-1923727763.jpg",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182122.png",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182053.png",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182022.png",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181956.png",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181926.png",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181848.png",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181815.png",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Cônicas/scr/Pasted image 20230624154154.png"
+  ]
+}

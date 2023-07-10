@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "29d022e83bcba649",
+    "type": "split",
+    "children": [
+      {
+        "id": "01069379b44fcabd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Faculdade/Matérias/Projetos Digitais/CMOS.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb103e9565a79d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d1ab3bb2fd8b27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fc3df0c93a472d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "af10eff19e98163e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83663c73479974fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9f71454e1bf09da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b92faa9b0ce97c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "805da35bbb4e5ce9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faculdade/Matérias/Projetos Digitais/CMOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "417555808c23a549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faculdade/Matérias/Projetos Digitais/CMOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4403b13e089e9a38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "020beaf0a4c5b357",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Faculdade/Matérias/Projetos Digitais/CMOS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "01069379b44fcabd",
+  "lastOpenFiles": [
+    "Faculdade/Matérias/Projetos Digitais/Tabela de Estados.md",
+    "Faculdade/Matérias/Projetos Digitais/Resumo da primeira prova.md",
+    "Faculdade/Matérias/Projetos Digitais/Pull Down e Pull Up.md",
+    "Faculdade/Matérias/Projetos Digitais/Máquina de Estados.md",
+    "Faculdade/Matérias/Projetos Digitais/Mapa de Karnaugh.md",
+    "Faculdade/Matérias/Projetos Digitais/Gray Code.md",
+    "Faculdade/Matérias/Projetos Digitais/CMOS.md",
+    "Faculdade/Matérias/Projetos Digitais/CI1210 Projetos - Centro.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Resumo P2.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/CM303 GAAL - Centro.md"
+  ]
+}

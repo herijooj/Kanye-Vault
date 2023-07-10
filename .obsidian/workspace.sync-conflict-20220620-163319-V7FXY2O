@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "29d022e83bcba649",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8d9259ecdb1f0b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Faculdade/Matérias/Projetos Digitais/Irma racista.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "357b5f30c3d9b27b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4d86e77409ba0f6c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b5ce0eb8ddbcc459",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "47f16a5999c25f64",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "05c35d81851490d6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "43c9f05f5eb72ad0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "386d75cf428e6cc5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Faculdade/Matérias/Projetos Digitais/Irma racista.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "17bd598687389e47",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Faculdade/Matérias/Projetos Digitais/Irma racista.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3461bc9a6a1f6e06",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Faculdade/Matérias/Projetos Digitais/Irma racista.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e8d9259ecdb1f0b7",
+  "lastOpenFiles": [
+    "Faculdade/Matérias/Projetos Digitais/Irma racista.md",
+    "Faculdade/Matérias/Projetos Digitais/Aula 2.md",
+    "Faculdade/Matérias/Matemática Discreta/Aula 3.md",
+    "Faculdade/Matérias/Matemática Discreta/CI1237.md",
+    "Rotina/2022-06-15.md",
+    "Templates/Template Rotina Normal.md",
+    "Templates/Centered Text.md",
+    "Faculdade/Matérias/Matemática Discreta/Teoremas e Corolarios.md",
+    "Faculdade/Matérias/Matemática Discreta/Aula 2.md",
+    "Faculdade/Matérias/Matemática Discreta/Aula 1.md"
+  ]
+}

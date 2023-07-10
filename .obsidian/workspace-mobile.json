@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "29d022e83bcba649",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c57c175ea39fff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe1c8a3610586bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "386bde1384c297cd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "596a77682be79909",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "befbabfdf4712cdb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1838d507f823e31b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "94b760236398c4b5",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b880ca2b3767837f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2218b8dee5dd5037",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b8e12def738ecb16",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc0db2229e7f4f99",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "afe1c8a3610586bd",
+  "lastOpenFiles": [
+    "Lyrics/5. My Beautiful Dark Twisted Fantasy/2. Gorgeous.md",
+    "Lyrics/7. The Life of Pablo/20. Saint Pablo.md",
+    "Lyrics/7. The Life of Pablo/Snips/This generation's closest thing to Einstein.md",
+    "Lyrics/7. The Life of Pablo/Snips/I feel like Pablo.md",
+    "Lyrics/7. The Life of Pablo/Snips/I know I'm the most influential.md",
+    "Lyrics/7. The Life of Pablo/Snips/Any rumor you ever heard about me was true and legendary.md",
+    "Lyrics/7. The Life of Pablo/Snips/You was the best of all time at the time though.md",
+    "Lyrics/7. The Life of Pablo/9. I Love Kanye.md",
+    "Lyrics/1. The College Dropout/Snips/Dream Killers.md",
+    "Lyrics/1. The College Dropout/Snips/use my arrogance as the steam.md",
+    "Lyrics/9. Jesus Is King/9. Hands On.md",
+    "Lyrics/9. Jesus Is King/2. Selah.md",
+    "Lyrics/9. Jesus Is King/3. Follow God.md",
+    "Lyrics/9. Jesus Is King/4. Closed on Sunday.md",
+    "Lyrics/9. Jesus Is King/5. On God.md",
+    "Lyrics/3. Graduation/9. Flashing Lights.md",
+    "Lyrics/6. Yeezus/4. New Slaves.md",
+    "Lyrics/6. Yeezus/Snips/But I'd rather be a dick than a swallower.md",
+    "Projetos Pessoais/Guarda Roupa/Roupas.md",
+    "Faculdade/Matérias/Matemática Discreta/PDF_Proibido_do_Renato_1.pdf",
+    "Faculdade/Matérias/Matemática Discreta/notas-de-aula-1.pdf",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Ferramentas.md",
+    "Consumismo/Cabelo.md",
+    "Rotina/2023-03-24.md",
+    "Faculdade/Matérias/Calc1/Calculo 1.md",
+    "Faculdade/Datas.md",
+    "Faculdade/Matérias/Arquitetura/datas.md",
+    "Faculdade/Matérias/paradigmas/Trabalho/structure.md"
+  ]
+}

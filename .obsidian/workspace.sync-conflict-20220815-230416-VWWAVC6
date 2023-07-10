@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "29d022e83bcba649",
+    "type": "split",
+    "children": [
+      {
+        "id": "01069379b44fcabd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 16.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d6e1f51be4c956f",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e8bfe5bfefc232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d5eb1827b770f7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a20ea689a1a54d7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64096645a6a1b081",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe9d4df29343d800",
+    "type": "split",
+    "children": [
+      {
+        "id": "426f5390d27ea008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e1105746b9ee6c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9615bffc67873d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f634aac8a3b48636",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33939eefbcc4e249",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 16.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "01069379b44fcabd",
+  "lastOpenFiles": [
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 12.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/aula 13.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 14.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 15.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 16.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 11.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 10.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 9.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 8.md",
+    "Faculdade/Matérias/Geometria analitica e algebra linear/Aula 7.md"
+  ]
+}
