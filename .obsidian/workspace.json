@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Timeline.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Timeline.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Timeline.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/Timeline.md"
+                "file": "README.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Timeline/Timeline.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,16 +260,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
       "switcher:Abrir a troca rápida": false,
       "markdown-importer:Abrir importador Markdown": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "omnisearch:Omnisearch": false,
+      "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "0819cfff765d3bf3",
+  "active": "bb4689390f9fd6ca",
   "lastOpenFiles": [
+    "Timeline/Timeline.md",
     "Kanye Vault.md",
     "Lyrics/Singles/Burn Everthing.md",
     "Singles.md",
@@ -277,7 +279,6 @@
     "MixTapes.md",
     "Collaborations.md",
     "Albums.md",
-    "Timeline/Timeline.md",
     "Lyrics/Unnoficial/Someday We All Be Free.md",
     "Lyrics/Unnoficial/530.md",
     "Lyrics/Albums/10. Donda/10. Believe What I Say.md",
