@@ -3,7 +3,7 @@
 As I lay me down to sleep  
 I hear her speak to me  
 Hello 'Mari, how ya doin'?  
-I think the storm ran out of rain, the clouds are movin'  
+I think [[the storm]] ran out of rain, the clouds are movin'  
 I know you're happy, 'cause I can see it  
 So tell the voice inside your head to believe it  
 I talked to God about you, he said he sent you an angel  

@@ -55,7 +55,7 @@ do it like I did too late - I did it
 The controversy cant worse me man; I'm eating but I'm still thirsty and  
 Thirsty what is you saying  
 I gotta a duel with a couple niggas that's Thursday man  
-Why the hell is i'm worrying; hopping out the Benz with the perfect 10  
+Why the hell is i'm worrying; hopping out the [[Benz]] with the perfect 10  
 Man your life must be perfect man; look at how they came up with the perfect plan  
 Its impossible  
 got strip clubs playin gosspital  

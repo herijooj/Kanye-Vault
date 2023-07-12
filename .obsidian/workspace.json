@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 471.5
   },
   "right": {
     "id": "d3917aa88c95bc2a",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,16 +127,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Lyrics/Unnoficial/Yandhi/New Body.md"
               }
-            }
-          },
-          {
-            "id": "5b3454ee5ec2bf96",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -152,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,7 +238,7 @@
                   "repelStrength": 8.02083333333333,
                   "linkStrength": 0.598958333333333,
                   "linkDistance": 30,
-                  "scale": 0.07027015355115979,
+                  "scale": 0.062012051304023284,
                   "close": true
                 }
               }
@@ -256,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 495.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,38 +257,40 @@
       "switcher:Abrir a troca rápida": false,
       "markdown-importer:Abrir importador Markdown": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "omnisearch:Omnisearch": false,
-      "random-note:Abrir nota aleatória": false
+      "random-note:Abrir nota aleatória": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb4689390f9fd6ca",
+  "active": "0819cfff765d3bf3",
   "lastOpenFiles": [
-    "Timeline/Timeline.md",
-    "Kanye Vault.md",
-    "Lyrics/Singles/Burn Everthing.md",
-    "Singles.md",
+    "Lyrics/Unnoficial/Yandhi/Hurricane.md",
+    "Lyrics/Unnoficial/Yandhi/New Body.md",
+    "Lyrics/Unnoficial/Yandhi/Chakras.md",
+    "Lyrics/Unnoficial/Yandhi/Spread Your Wings.md",
+    "Lyrics/Unnoficial/Yandhi/The Storm.md",
+    "Lyrics/Collaborations/2. Cruel Summer/9. The One.md",
+    "Lyrics/Unnoficial/Yandhi/Snips/Kanye gave up the West.md",
+    "Lyrics/Unnoficial/Yandhi/Snips/Thank God I'm bipolar.md",
+    "Lyrics/Unnoficial/Yandhi/Snips",
+    "Lyrics/Unnoficial/Yandhi/Yandhi.md",
     "Unnoficial.md",
-    "MixTapes.md",
-    "Collaborations.md",
-    "Albums.md",
-    "Lyrics/Unnoficial/Someday We All Be Free.md",
-    "Lyrics/Unnoficial/530.md",
-    "Lyrics/Albums/10. Donda/10. Believe What I Say.md",
-    "Lyrics/Albums/6. Yeezus/10. Bound 2.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/KeyWords/SNL.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Tell them Yeezy said they can kiss my whole ass.md",
+    "Lyrics/Unnoficial/Yandhi",
+    "Lyrics/Albums/1. The College Dropout/KeyWords/Benz.md",
     "Lyrics/Singles/City of Gods.md",
-    "Lyrics/Albums/10. Donda/32. Keep My Spirit Alive Pt. 2.md",
-    "Lyrics/Albums/10. Donda/31. Never Abandon Your Family.md",
-    "Lyrics/Albums/10. Donda/30. Remote Control Pt. 2.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/10. Hell of a Life.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/7. So Apalled.md",
-    "Lyrics/Singles/Eazy.md",
-    "Lyrics/Singles/FourFiveSeconds.md",
-    "Lyrics/Albums/9. Jesus Is King/5. On God.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/If God had an iPod, I'd be on his playlist.md",
-    "Lyrics/Albums/10. Donda/29. Up From The Ashes.md",
-    "Lyrics/Albums/10. Donda/28. Life of the Party.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/If we die in each other's arms.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Thought I'd die in your arms.md",
+    "Lyrics/Unnoficial/True Love (Unreleased).md",
+    "Lyrics/Singles/True Love.md",
+    "Lyrics/Albums/8. Ye/Snips/Just play piano and stick to karate.md",
+    "Lyrics/Albums/8. Ye/Snips/Don't have our daughters butterfly while they larvae.md",
+    "Lyrics/Unnoficial/Snips/[[Just play piano and stick to karate.md",
+    "Lyrics/Albums/8. Ye/7. Violent Crimes.md",
+    "Lyrics/Albums/8. Ye/Snips/Cause now I see women as somethin' to nurture.md",
+    "Singles.md",
+    "Lyrics/Albums/7. The Life of Pablo/Snips/I had a cousin that stole my laptop.md",
+    "Lyrics/Albums/10. Donda/21. Pure Souls.md",
+    "Lyrics/Albums/7. The Life of Pablo/17. No More Parties in LA.md",
+    "Lyrics/Albums/7. The Life of Pablo/18. Facts (Charlie Heat Version).md",
     "Lyrics/Unnoficial/Snips",
     "Lyrics/Albums/4. 808s & Heartbreak/Keywords",
     "Lyrics/Albums/7. The Life of Pablo/KeyWords",
@@ -305,8 +299,6 @@
     "Lyrics/Singles/Keywords",
     "Lyrics/Singles/Snips",
     "Lyrics/MixTapes/3. Kon The Louis Vuitton Don",
-    "Lyrics/MixTapes/Sem título",
-    "Timeline",
     "scr/Kanye.jpg",
     "a6432b84a7899ad6f0faa9b6694bf83c-1923727763.jpg",
     "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182122.png",

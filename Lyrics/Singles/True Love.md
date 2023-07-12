@@ -2,9 +2,9 @@
 
 _[XXXTENTACION:]_  
 True love shouldn't be this complicated  
-I thought I'd die in your arms, I thought I'd die in your—  
+I [[Thought I'd die in your arms]], I thought I'd die in your—  
 True love shouldn't be this complicated  
-I thought I'd die in your arms, I thought I'd die in your—  
+I [[Thought I'd die in your arms]], I thought I'd die in your—  
 
 _[Kanye West:]_  
 No hard feelings, but these feelings harder  
@@ -29,11 +29,11 @@ I leave the light on
 _[XXXTENTACION (Kanye West):]_  
 True love shouldn't be this complicated  
 (Daddy's not gone, you see the light on)  
-I thought I'd die in your arms, I thought I'd die in your—  
+I [[Thought I'd die in your arms]], I thought I'd die in your—  
 (Daddy's at home, tell Gekyume)  
 True love shouldn't be this complicated  
 (Daddy's not gone, tell Gekyume)  
-I thought I'd die in your arms, I thought I'd die in your—  
+I [[Thought I'd die in your arms]], I thought I'd die in your—  
 (Daddy's at home)  
 
 _[XXXTENTACION:]_  
@@ -49,6 +49,6 @@ No hard feelings, but these feelings harder
 
 _[XXXTENTACION:]_  
 True love shouldn't be this complicated  
-I thought I'd die in your arms, I thought I'd die in your—  
+I [[Thought I'd die in your arms]], I thought I'd die in your—  
 True love shouldn't be this complicated  
-I thought I'd die in your arms, I thought I'd die in your—
+I [[Thought I'd die in your arms]], I thought I'd die in your—

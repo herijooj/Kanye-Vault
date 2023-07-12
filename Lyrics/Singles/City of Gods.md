@@ -71,7 +71,7 @@ You got an album, postpone it
 I drop two and they both going  
 I got a feeling they in they feelings  
 They filmin' a show, but won't show it  
-You gotta watch me in slow motion, I'm in a wide-body Benz  
+You gotta watch me in slow motion, I'm in a wide-body [[Benz]]  
 I go back to college, do an album and then [[The College Dropout|drop out]] again  
 It took a minute to get here, my [[She saw the vision|vision]] is crystal clear  
 Ayy, Fivi', excuse me, but this the feature of the year  
