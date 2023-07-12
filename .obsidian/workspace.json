@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
+                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 284.5
   },
   "right": {
     "id": "d3917aa88c95bc2a",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
+                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
+                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/New Body.md"
+                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/New Body.md",
+                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,8 +263,11 @@
   },
   "active": "0819cfff765d3bf3",
   "lastOpenFiles": [
-    "Lyrics/Unnoficial/Yandhi/Hurricane.md",
+    "Albums.md",
+    "Unnoficial.md",
+    "Lyrics/Unnoficial/Yandhi/Yandhi.md",
     "Lyrics/Unnoficial/Yandhi/New Body.md",
+    "Lyrics/Unnoficial/Yandhi/Hurricane.md",
     "Lyrics/Unnoficial/Yandhi/Chakras.md",
     "Lyrics/Unnoficial/Yandhi/Spread Your Wings.md",
     "Lyrics/Unnoficial/Yandhi/The Storm.md",
@@ -272,8 +275,6 @@
     "Lyrics/Unnoficial/Yandhi/Snips/Kanye gave up the West.md",
     "Lyrics/Unnoficial/Yandhi/Snips/Thank God I'm bipolar.md",
     "Lyrics/Unnoficial/Yandhi/Snips",
-    "Lyrics/Unnoficial/Yandhi/Yandhi.md",
-    "Unnoficial.md",
     "Lyrics/Unnoficial/Yandhi",
     "Lyrics/Albums/1. The College Dropout/KeyWords/Benz.md",
     "Lyrics/Singles/City of Gods.md",
@@ -290,7 +291,6 @@
     "Lyrics/Albums/7. The Life of Pablo/Snips/I had a cousin that stole my laptop.md",
     "Lyrics/Albums/10. Donda/21. Pure Souls.md",
     "Lyrics/Albums/7. The Life of Pablo/17. No More Parties in LA.md",
-    "Lyrics/Albums/7. The Life of Pablo/18. Facts (Charlie Heat Version).md",
     "Lyrics/Unnoficial/Snips",
     "Lyrics/Albums/4. 808s & Heartbreak/Keywords",
     "Lyrics/Albums/7. The Life of Pablo/KeyWords",
