@@ -7,5 +7,6 @@
   "obsidian-pandoc",
   "text-extractor",
   "omnisearch",
-  "obsidian-git"
+  "obsidian-git",
+  "extract-url"
 ]

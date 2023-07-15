@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
+                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 200
   },
   "right": {
     "id": "d3917aa88c95bc2a",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
+                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
+                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md"
+                "file": "Lyrics/Singles/47th Annual Grammy Speech.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lyrics/Unnoficial/Yandhi/Yandhi.md",
+                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,14 +263,26 @@
   },
   "active": "0819cfff765d3bf3",
   "lastOpenFiles": [
-    "Albums.md",
+    "Lyrics/Singles/Snips/I guess we'll never know..md",
+    "Lyrics/Singles/47th Annual Grammy Speech.md",
+    "Singles.md",
     "Unnoficial.md",
+    "archive/genius_com.Kanye West  47th Annual Grammy Speech  Genius.md",
+    "archive",
+    "Lyrics/Albums/9. Jesus Is King/2. Selah.md",
+    "Lyrics/Albums/9. Jesus Is King/Snips/Jesus Christ did the laundry.md",
     "Lyrics/Unnoficial/Yandhi/Yandhi.md",
+    "Lyrics/Unnoficial/Yandhi/The Storm.md",
     "Lyrics/Unnoficial/Yandhi/New Body.md",
     "Lyrics/Unnoficial/Yandhi/Hurricane.md",
     "Lyrics/Unnoficial/Yandhi/Chakras.md",
+    "Lyrics/Albums/3. Graduation/6. Can’t Tell Me Nothing.md",
+    "Lyrics/Albums/3. Graduation/Snips/stay faithful in a room full of hoes.md",
+    "Lyrics/Albums/7. The Life of Pablo/Snips/She spent her whole check on some Christians.md",
+    "Lyrics/Singles/White Dress.md",
+    "Lyrics/Albums/7. The Life of Pablo/7. Highlights.md",
+    "Albums.md",
     "Lyrics/Unnoficial/Yandhi/Spread Your Wings.md",
-    "Lyrics/Unnoficial/Yandhi/The Storm.md",
     "Lyrics/Collaborations/2. Cruel Summer/9. The One.md",
     "Lyrics/Unnoficial/Yandhi/Snips/Kanye gave up the West.md",
     "Lyrics/Unnoficial/Yandhi/Snips/Thank God I'm bipolar.md",
@@ -280,17 +292,6 @@
     "Lyrics/Singles/City of Gods.md",
     "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/If we die in each other's arms.md",
     "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Thought I'd die in your arms.md",
-    "Lyrics/Unnoficial/True Love (Unreleased).md",
-    "Lyrics/Singles/True Love.md",
-    "Lyrics/Albums/8. Ye/Snips/Just play piano and stick to karate.md",
-    "Lyrics/Albums/8. Ye/Snips/Don't have our daughters butterfly while they larvae.md",
-    "Lyrics/Unnoficial/Snips/[[Just play piano and stick to karate.md",
-    "Lyrics/Albums/8. Ye/7. Violent Crimes.md",
-    "Lyrics/Albums/8. Ye/Snips/Cause now I see women as somethin' to nurture.md",
-    "Singles.md",
-    "Lyrics/Albums/7. The Life of Pablo/Snips/I had a cousin that stole my laptop.md",
-    "Lyrics/Albums/10. Donda/21. Pure Souls.md",
-    "Lyrics/Albums/7. The Life of Pablo/17. No More Parties in LA.md",
     "Lyrics/Unnoficial/Snips",
     "Lyrics/Albums/4. 808s & Heartbreak/Keywords",
     "Lyrics/Albums/7. The Life of Pablo/KeyWords",
@@ -298,7 +299,6 @@
     "Lyrics/Albums/10. Donda/Deluxe",
     "Lyrics/Singles/Keywords",
     "Lyrics/Singles/Snips",
-    "Lyrics/MixTapes/3. Kon The Louis Vuitton Don",
     "scr/Kanye.jpg",
     "a6432b84a7899ad6f0faa9b6694bf83c-1923727763.jpg",
     "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182122.png",
