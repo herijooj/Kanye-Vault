@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
-                "mode": "source",
+                "file": "Lyrics/Albums/9. Jesus Is King/2. Selah.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "life of the party",
+                "query": "Sunday",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.5
   },
   "right": {
     "id": "d3917aa88c95bc2a",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
+                "file": "Lyrics/Albums/9. Jesus Is King/2. Selah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
+                "file": "Lyrics/Albums/9. Jesus Is King/2. Selah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lyrics/Singles/47th Annual Grammy Speech.md"
+                "file": "Lyrics/Albums/9. Jesus Is King/2. Selah.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lyrics/Singles/47th Annual Grammy Speech.md",
+                "file": "Lyrics/Albums/9. Jesus Is King/2. Selah.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,9 +261,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0819cfff765d3bf3",
+  "active": "bb4689390f9fd6ca",
   "lastOpenFiles": [
     "Lyrics/Singles/Snips/I guess we'll never know..md",
+    "scr/i guess we will never know.png",
+    "scr/a1k83Ky7NFdO09SkRniWMzAxd7ppKMyCdvvaHC-Soeg-3542572273-removebg-preview.png",
     "Lyrics/Singles/47th Annual Grammy Speech.md",
     "Singles.md",
     "Unnoficial.md",
@@ -291,7 +293,6 @@
     "Lyrics/Albums/1. The College Dropout/KeyWords/Benz.md",
     "Lyrics/Singles/City of Gods.md",
     "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/If we die in each other's arms.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Thought I'd die in your arms.md",
     "Lyrics/Unnoficial/Snips",
     "Lyrics/Albums/4. 808s & Heartbreak/Keywords",
     "Lyrics/Albums/7. The Life of Pablo/KeyWords",
@@ -306,8 +307,6 @@
     "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182022.png",
     "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181956.png",
     "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181926.png",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181848.png",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181815.png",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/Cônicas/scr/Pasted image 20230624154154.png"
+    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181848.png"
   ]
 }
