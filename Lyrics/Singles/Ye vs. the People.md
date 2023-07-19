@@ -90,3 +90,5 @@ But if Ye's just stuck in his way, he can leave it at that
 Fuck it  
 
 Alright T.I.P., we could be rappin' about this all day, man, why don't we just cut the beat off and let the people talk?
+
+![[Ye vs. the People.jpg]]

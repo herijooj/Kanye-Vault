@@ -63,3 +63,5 @@ Tell Nori about me, tell Nori about me
 Tell Nori about me, tell Nori about me  
 Tell Nori about me, tell Nori about me  
 Tell Nori about me…
+
+![[Only One.jpg]]

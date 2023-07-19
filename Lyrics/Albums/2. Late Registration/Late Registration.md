@@ -41,3 +41,5 @@
 ## [[20. Diamonds From Sierra Leone]]
 
 ## [[21. Late]]
+
+![[LR.jpg]]

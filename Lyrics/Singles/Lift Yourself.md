@@ -51,3 +51,5 @@ Poop, poop
 Scoop-diddy-whoop  
 Whoop-diddy-scoop  
 Whoop-diddy-scoop, poop
+
+![[Lift Yourself.jpg]]

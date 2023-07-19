@@ -31,3 +31,5 @@
 ## [[15. Bittersweet Poetry]]
 
 ## [[16. Can't Tell Me Nothing (Remix)]]
+
+![[Graduation.jpg]]

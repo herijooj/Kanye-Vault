@@ -13,3 +13,5 @@
 # [[6. Ghost Town]]
 
 # [[7. Violent Crimes]]
+
+![[Ye.jpg]]

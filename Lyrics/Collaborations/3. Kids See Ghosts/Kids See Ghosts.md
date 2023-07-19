@@ -13,3 +13,5 @@
 # [[6. Kids See Ghosts]]
 
 # [[7. Cudi Montage]]
+
+![[KSG.jpg]]

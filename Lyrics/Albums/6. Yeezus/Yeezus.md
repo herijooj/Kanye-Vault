@@ -19,3 +19,5 @@
 # [[9. Send It Up]]
 
 # [[10. Bound 2]]
+
+![[Yeezus.jpg]]

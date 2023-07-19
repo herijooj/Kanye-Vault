@@ -1,1 +1,3 @@
-# Get Well Soon..
+# Get Well Soon.
+
+![[GWS.jpg]]

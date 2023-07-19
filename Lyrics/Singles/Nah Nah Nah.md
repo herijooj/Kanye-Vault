@@ -64,3 +64,5 @@ Overthrow, send the drones in
 All the maneuvers, feelin' closed in  
 I don't need to strike back, I let God fight my battles  
 Ain't strapped with a TEC, laid it down, now where they at?
+
+![[Nah Nah Nah.jpg]]

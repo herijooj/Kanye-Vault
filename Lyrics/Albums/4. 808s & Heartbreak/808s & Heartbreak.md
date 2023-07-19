@@ -23,3 +23,5 @@
 ## [[11.  Coldest Winter]]
 
 ## [[12.  Pinocchio Story]]
+
+![[808s.jpg]]

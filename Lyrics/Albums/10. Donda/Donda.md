@@ -63,3 +63,5 @@
 # [[29. Up From The Ashes]]
 
 # [[17. Never Abandon Your Family]]
+
+![[Donda.jpg]]

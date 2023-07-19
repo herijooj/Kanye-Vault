@@ -105,3 +105,5 @@ Whole life bein' thugs (Ah)
 No choice, sellin' drugs (God)  
 Genocide what it does  
 Slavery what it does
+
+![[Wash Us In The Blood.jpg]]

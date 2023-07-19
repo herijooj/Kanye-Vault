@@ -21,3 +21,5 @@
 # [[10. Use This Gospel]]
 
 # [[11. Jesus Is Lord]]
+
+![[JIK.jpg]]

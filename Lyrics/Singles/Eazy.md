@@ -83,3 +83,5 @@ _[Michel'le:]_
 (He was-he was)  
 (He was once a-once a-)  
 (Thug from a-thug from a-from around the way)
+
+![[Eazy.jpg]]

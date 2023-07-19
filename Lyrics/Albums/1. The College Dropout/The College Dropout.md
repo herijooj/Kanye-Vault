@@ -44,4 +44,6 @@
 
 ## [[22. Heavy Hitters]]
 
+![[TCD.jpg]]
+
 ---

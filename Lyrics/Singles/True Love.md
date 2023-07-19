@@ -52,3 +52,5 @@ True love shouldn't be this complicated
 I [[Thought I'd die in your arms]], I thought I'd die in your—  
 True love shouldn't be this complicated  
 I [[Thought I'd die in your arms]], I thought I'd die in your—
+
+![[True Love.jpg]]

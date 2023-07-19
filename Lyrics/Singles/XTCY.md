@@ -56,3 +56,5 @@ That's why they're going mad, mad, mad, Max
 If you don't say your name then I won't ask  
 You got a smartphone but a dumb ass  
 I thought of all this on ecstasy
+
+![[XTCY.jpg]]
