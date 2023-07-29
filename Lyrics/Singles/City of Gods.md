@@ -62,7 +62,7 @@ I'm with the drillers that come with the night
 They ain't do four years in college, but they'll do twenty five to life  
 We make money every night (What?)  
 Never too big of a price (What?)  
-After I buy the Chicago Bulls (What?), I'ma go link with Mike (What?)  
+After I buy the [[Chicago]] Bulls (What?), I'ma go link with Mike (What?)  
 And if I let 'em have my wife, niggas should thank me  
 With this Balenciaga and Balenci' boots and a new blue Yankee  
 This is Ye, I'm so focused, throw on a mask, no COVID  
@@ -77,7 +77,7 @@ It took a minute to get here, my [[She saw the vision|vision]] is crystal clear
 Ayy, Fivi', excuse me, but this the feature of the year  
 I feel like Sinatra in these streets, me and Drizzy, we at peace  
 This the [[backpack]] with the [[Pink Polo|Polo]] and the first [[Jesus piece]]  
-I'm from the [[Chi]]' but I'm always New York  
+I'm from the [[Chicago|Chi]]' but I'm always New York  
 The city that treat me like [[7. Jesus Walks|Jesus is walkin]]'  
 I been through the pain and all of the torment  
 I'm sayin' His name, I make it important (What?)  

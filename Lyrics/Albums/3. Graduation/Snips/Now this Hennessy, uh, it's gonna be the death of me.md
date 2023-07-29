@@ -11,7 +11,7 @@ Off that Bacardi Limon and Corona. I'm zonin'
 
 ## Sipping Hennessy [[12. Slow Jamz]]
 
-From the [[Chi]] and I be  
+From the [[Chicago|Chi]] and I be  
 Sipping [[12. Slow Jamz#^254eb4|Hennessy]]  
 Play some R&B  
 While I smoke a B  
@@ -26,7 +26,7 @@ you can preferably find that I'm a G?
 (Ah!) What's scary to me is  
 [[11. The New Workout Plan#^9be617|Henny makes girls look like Halle Berry to me]]  
 So excuse me miss, I forgot your name  
-Thank you, God bless you, good night I came, I came, I came
+Thank you, God bless you, [[14. Good Night|good night]] I came, I came, I came
 
 ## Excuse Me, That's Just the Henny, Man | [[20. Diamonds From Sierra Leone]]
 

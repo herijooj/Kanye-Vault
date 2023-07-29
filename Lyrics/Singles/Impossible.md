@@ -43,7 +43,7 @@ I cant help but I see you tho, I don't get it (Its impossible)
 Lil mama, for you to fit all that up in a pants; booty kinda wide  
 turn a regular jeans in a low riders  
 tell me can I be your man (its just impossible)  
-For you to eva deny, that I'm about [[chi-town]]  
+For you to eva deny, that I'm about [[Chicago|chi-town]]  
 represent the city with the deal for 12 years and sell a couple a mil and still hold it down…THAT'S POSSIBLE  
 
 _[CHORUS]_  

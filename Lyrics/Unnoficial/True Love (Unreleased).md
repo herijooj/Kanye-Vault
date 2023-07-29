@@ -10,7 +10,7 @@ I thought I'd die in your—
 
 [Verse: Kanye West]  
 No hard feelings, but these feelings harder  
-When I think about it, my eyes fill up with water  
+When I think about it, my eyes fill up with [[7. Water|water]]  
 [[Don't have our daughters butterfly while they larvae]]  
 Wait, when you see the kids? I'll see y'all tomorrow  
 Wait, when the sun set? I see y'all tomorrow  
@@ -21,7 +21,7 @@ Wait, who got the kids in those "What are those?"
 Wait, why they can't wear Yeezys with the cargos?  
 Y'all know Nike don't like me, y'all take it too far, though  
 At least have 'em in some Mike's, he played for [[Chicago]]  
-I only see three kids, who watchin' Chicago?  
+I only see three kids, who watchin' [[Chicago]]?  
 And you know all the nannies is Donnie Nesbrasco  
 Let the kids dig a tunnel to my house like Chapo  
 Only neighbor in the hood with a door they can knock on  

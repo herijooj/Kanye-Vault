@@ -29,7 +29,7 @@ I'm a bull like the home town
 
 [Verse 2]  
 Yeezys on, Yeezy bomber, wear my own designer  
-Name good, all my bridges open, go wherever, that's power  
+Name good, all my bridges open, go wherever, that's [[3. Power|power]]  
 She came from the club tryna fuck, bitch, get in the shower  
 You a kid to me, boy, I prolly fucked your mama  
 Hunnid Ms, you did that? Baddest chick in the world, you hit that?  
@@ -54,7 +54,7 @@ Look at the money, look at the bands
 I get on my knees, I'm thankin' the man  
 He said he ain't like that nigga, I just seen him shakin' his hand  
 I'm shakin' my head, I'm shakin' my head  
-You like that Benz? They made it in France
+You like that [[Benz]]? They made it in France
 
 [Chorus]  
 But watch your hands, get back  

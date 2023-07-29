@@ -1,1 +1,5 @@
+---
+aliases: Benzo, Mercedes
+---
+
 # Benz

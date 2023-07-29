@@ -1,4 +1,8 @@
-# Pink Polos
+---
+aliases: pink polos, pink polo, polo
+---
+
+# Pink Polo
 
 ## [[3. Touch The Sky]]
 
@@ -17,7 +21,7 @@ And I'm doing pretty hood in [[7. Barry Bonds#^bc8062|my pink polo]]
 
 ## [[11. The Glory]]
 
-The glory, the story, the chain, the [[11. The Glory#^8113a9|polo]], the night  
+[[11. The Glory|The glory]], the story, the chain, the [[11. The Glory#^8113a9|polo]], the night  
 
 ---
 

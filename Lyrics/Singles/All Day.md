@@ -10,7 +10,7 @@ How many runners do you got on call? All day, nigga
 Swish, swish, how long they keep you in court? All day, nigga  
 Take you to get this fly? All day, nigga  
 Tell your P.O. how-how long you been high? All day, nigga  
-You already know I’m straight from the [[Chi]], all day, nigga  
+You already know I’m straight from the [[Chicago|Chi]], all day, nigga  
 South, south, south side! All day, nigga  
 
 This Ye, nigga  
@@ -55,7 +55,7 @@ How long it take you to get this fly? All day, nigga
 Tell your P.O. how-how long you been high? All day, nigga  
 Pour some [[Henessy|Hen]] out for my niggas that died, all day, nigga  
 And I keep a bad bitch on the passenger side, all day, nigga  
-You already know that I’m straight from the [[Chi]], all day, nigga  
+You already know that I’m straight from the [[Chicago|Chi]], all day, nigga  
 South, south, south side! All day, nigga  
 
 I could do this all day, boy, I'm finna turn this bitch out  

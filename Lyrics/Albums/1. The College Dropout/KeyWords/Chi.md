@@ -1,3 +1,0 @@
-# Chi
-
-[[Chi-Town]]

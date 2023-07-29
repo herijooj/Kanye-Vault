@@ -4,7 +4,7 @@
 
 I was drinkin' earlier, now I'm drivin'  
 Where the bad bitches, huh? Where you hidin'?  
-I got the power make your life so excitin'
+I got the [[3. Power|power]] make your life so excitin'
 
 ---
 

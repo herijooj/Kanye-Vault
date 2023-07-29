@@ -27,7 +27,7 @@ You’ll be sorry that you lied, yeah, you'll be sorry
 I pour up 40 for the guys, this for my brodies in the skies  
 And not these phonies in disguise, they tellin' stories  
 Yeah, they tellin' stories, tellin' lies  
-'Cause the fact is I'm right, so the facts they don't like  
+'Cause the fact is I'm right, so the [[18. Facts (Charlie Heat Version)|facts]] they don't like  
 Uh, they tellin’ stories, tellin’ lies  
 Tryna censor my light but I'm blessed, I’m alright
 

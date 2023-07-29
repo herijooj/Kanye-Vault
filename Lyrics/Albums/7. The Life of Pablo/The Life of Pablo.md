@@ -2,7 +2,7 @@
 
 # [[1. Ultralight Beam]]
 
-# [[2. Father Stretch My Hands, Pt. 1]]
+# [[2. Father Stretch My Hands Pt. 1]]
 
 # [[3. Pt. 2]]
 

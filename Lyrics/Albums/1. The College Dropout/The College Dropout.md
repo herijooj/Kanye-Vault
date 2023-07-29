@@ -14,7 +14,7 @@
 
 ## [[7. Jesus Walks]]
 
-## [[8. Never let me down]]
+## [[8. Never Let Me Down]]
 
 ## [[9. Get ’Em High]]
 

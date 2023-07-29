@@ -1,5 +1,6 @@
 # He'll Leave Yo' Ass for a White Girl
 
+> [!quote] He'll Leave Yo' Ass for a White Girl
 He got that ambition, baby, look at his eyes  
 This week he moppin' floors, next week it's the fries  
 So stick by his side  

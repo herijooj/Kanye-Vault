@@ -6,7 +6,7 @@ Autumn falls on me, fall, winter, and spring
 Eighty degrees, warmin' up for me  
 I fell deep, sun ain't have to leave  
 Open my eyes and see  
-We will float over water, leaning into shore  
+We will float over [[7. Water|water]], leaning into shore  
 As we make our nirvana, sacred, so pure  
 Lift up the child, I know we will
 
@@ -23,7 +23,7 @@ Let me get your ear like Holyfield
 From the home of Soldier Field  
 Coming home, that's how a soldier feels  
 All that killing over, that's just overkill  
-Yeezy back in the Chi, this that Oprah field
+Yeezy back in the [[Chicago|Chi]], this that Oprah field
 
 [Chorus: Ant Clemons]  
 Seasons changing, summer starts to leave  
@@ -31,7 +31,7 @@ Autumn falls on me, fall, winter, and spring
 Eighty degrees, warmin' up for me  
 I fell deep, sun ain't have to leave  
 Open my eyes and see  
-We will float over water, leaning into shore  
+We will float over [[7. Water|water]], leaning into shore  
 As we make our nirvana, sacred, so pure  
 Lift up the child, I know we will
 
@@ -70,7 +70,7 @@ Autumn falls on me, fall, winter, and spring
 Eighty degrees, warmin' up for me  
 I fell deep, sun ain't have to leave  
 Open my eyes and see  
-We will float over water, leaning into shore  
+We will float over [[7. Water|water]], leaning into shore  
 As we make our nirvana, sacred, so pure  
 Lift up the child, I know we will
 
@@ -86,9 +86,9 @@ Warmin' up to me
 I did it free  
 I did know, indeed  
 And I run out to sea  
-I can walk on the water  
+I can walk on the [[7. Water|water]]  
 Honey, I want you  
-I can float on the water  
+I can float on the [[7. Water|water]]  
 Father, hold me close  
 Don't let me down  
 I know you won't
@@ -103,7 +103,7 @@ Warmin' up to me
 I did it free  
 I did know, indeed  
 And I run out to sea  
-I can walk on the water  
+I can walk on the [[7. Water|water]]  
 Honey, I want you  
 I can float on the finer  
 Father, hold me close  
@@ -150,7 +150,7 @@ And wind that hits the leaves
 I feel so free  
 God's all over me  
 And the whole world can see  
-His love flows just like water  
+His love flows just like [[7. Water|water]]  
 Look, it overflows  
 Nothing's too hard for God  
 Father, hold me close  

@@ -48,11 +48,11 @@
 
 # [[24. Jail Pt. 2]]
 
-# [[25. Ok Ok, Pt. 2]]
+# [[25. Ok Ok Pt. 2]]
 
 # [[26. Junya Pt. 2]]
 
-# [[27. Jesus Lord, Pt. 2]]
+# [[27. Jesus Lord Pt. 2]]
 
 ---
 

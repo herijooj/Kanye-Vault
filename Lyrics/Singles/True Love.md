@@ -19,8 +19,8 @@ Wait, no hard feelings, but these feelings hard though
 Wait, who got the kids in those "What are those?"  
 Wait, why they can't wear Yeezys with the cargos?  
 Y'all know Nike don't like me, y'all take it too far, though  
-At least have 'em in some Mike's, he played for Chicago  
-I only see three kids, who watchin' Chicago?  
+At least have 'em in some Mike's, he played for [[Chicago]]  
+I only see three kids, who watchin' [[Chicago]]?  
 And you know all the nannies they're Danny Nesbrasco  
 Let the kids dig a tunnel to my house like Chapo  
 Only neighbor in the hood with a door they can knock on  

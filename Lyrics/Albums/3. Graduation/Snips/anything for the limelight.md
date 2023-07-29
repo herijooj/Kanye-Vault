@@ -1,5 +1,6 @@
-# Anything for the Limelight
+# Anything for the [[Limelight]]
 
+> [!quote] And she'll do anything for the [[Limelight]]
 'Cause it's Louis Vuitton Don night  
 So we gon' do everything that Kan like  
 Heard they'd do anything for a Klondike  

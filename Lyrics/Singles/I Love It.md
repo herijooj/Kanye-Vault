@@ -19,7 +19,7 @@ Then I fucked up on her cousin
 Or her sister, I don't know nothin' (uh-uh, woo)  
 And my niggas gettin' ignorant  
 Like a lighter, bitch, we ignant (ignant, yeah)  
-All this water on my neck  
+All this [[7. Water|water]] on my neck  
 Look like I fell when I went fishin' (fell)  
 So much diamonds on my bust down  
 Ooh, fuck, what's the time? (where we at?)  
@@ -33,7 +33,7 @@ You're such a fuckin' ho, I love it (I love it)
 _[Kanye West:]_  
 You're such a fuckin' ho  
 When the first time they ask you if you want sparklin' or still?  
-Why you try to act like you was drinkin' sparklin' water 'fore you came out here?  
+Why you try to act like you was drinkin' sparklin' [[7. Water|water]] 'fore you came out here?  
 You're such a fuckin' h..  
 
 I'm a sick fuck, I like a quick fuck (whoop!)  
