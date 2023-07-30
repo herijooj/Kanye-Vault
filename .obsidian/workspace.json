@@ -11,8 +11,13 @@
             "id": "0819cfff765d3bf3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lyrics/Albums/1. The College Dropout/KeyWords/Chicago.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 294.5
   },
   "right": {
     "id": "d3917aa88c95bc2a",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lyrics/Albums/1. The College Dropout/KeyWords/Chicago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lyrics/Albums/1. The College Dropout/KeyWords/Chicago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lyrics/Albums/1. The College Dropout/KeyWords/Chicago.md"
+              }
             }
           }
         ]
@@ -135,15 +144,16 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lyrics/Albums/1. The College Dropout/KeyWords/Chicago.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 3,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
                   "hideUnresolved": true,
                   "collapse-color-groups": false,
                   "colorGroups": [
@@ -224,11 +234,11 @@
                   "nodeSizeMultiplier": 1.01875,
                   "lineSizeMultiplier": 1.01875,
                   "collapse-forces": false,
-                  "centerStrength": 0.25,
+                  "centerStrength": 0.473958333333333,
                   "repelStrength": 8.02083333333333,
                   "linkStrength": 0.598958333333333,
                   "linkDistance": 30,
-                  "scale": 0.062012051304023284,
+                  "scale": 0.0939326163738832,
                   "close": true
                 }
               }
@@ -253,6 +263,17 @@
   },
   "active": "0819cfff765d3bf3",
   "lastOpenFiles": [
+    "scr/4keyword.png",
+    "scr/3quote.png",
+    "scr/2lyrics.png",
+    "scr/1Graph.png",
+    "scr/Captura de tela de 2023-07-29 21-33-46.png",
+    "scr/Captura de tela de 2023-07-29 21-33-22.png",
+    "scr/Captura de tela de 2023-07-29 21-32-37.png",
+    "scr/Captura de tela de 2023-07-29 21-29-35.png",
+    "Lyrics/Albums/7. The Life of Pablo/Snips/Seem like the more fame, I only got wilder.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/8. Devil in a New Dress.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/What happened to religion? Oh, she lose it.md",
     "Lyrics/Unnoficial/Yandhi/Snips/Thank God I'm bipolar.md",
     "Lyrics/Unnoficial/Yandhi/Snips/Kanye gave up the West.md",
     "Lyrics/Unnoficial/Snips/Tweeted \"death con,\" now we past three.md",
@@ -275,10 +296,6 @@
     "Lyrics/Albums/10. Donda/Snips/People sayin' tweetin' gonna make you die early.md",
     "Lyrics/Albums/10. Donda/Snips/Made the best tracks and still went off the rail.md",
     "Lyrics/Albums/10. Donda/Snips/It's the best collab since Taco Bell and KFC.md",
-    "Lyrics/Albums/10. Donda/Snips/it's hard to be an angel when you surrounded by demons.md",
-    "Lyrics/Albums/10. Donda/Snips/I was thinkin' out the box even in a Box Chevy.md",
-    "Lyrics/Albums/10. Donda/Snips/I talk to God every day, that's my bestie.md",
-    "Lyrics/Albums/10. Donda/Snips/I don't know what I would do without me.md",
     "Lyrics/Albums/10. Donda/temp",
     "Lyrics/Albums/9. Jesus Is King/temp",
     "Lyrics/Albums/8. Ye/temp",
@@ -291,13 +308,6 @@
     "Lyrics/Albums/3. Graduation/scr/Graduation.jpg",
     "Lyrics/Albums/3. Graduation/scr",
     "scr/i guess we will never know.png",
-    "scr/a1k83Ky7NFdO09SkRniWMzAxd7ppKMyCdvvaHC-Soeg-3542572273-removebg-preview.png",
-    "scr/Kanye.jpg",
-    "a6432b84a7899ad6f0faa9b6694bf83c-1923727763.jpg",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182122.png",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182053.png",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626182022.png",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181956.png",
-    "Faculdade/Matérias/Geometria analitica e algebra linear/lista3/scr/Pasted image 20230626181926.png"
+    "scr/a1k83Ky7NFdO09SkRniWMzAxd7ppKMyCdvvaHC-Soeg-3542572273-removebg-preview.png"
   ]
 }
