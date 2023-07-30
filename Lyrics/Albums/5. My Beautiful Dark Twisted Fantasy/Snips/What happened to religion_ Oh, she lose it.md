@@ -1,5 +1,6 @@
 # What Happened to Religion? Oh, She Lose it
 
+> [!quote] What Happened to Religion? Oh, She Lose it
 May the Lord forgive us, may the gods be with us  
 In that magic hour, I seen good Christians  
 Make brash decisions, oh, she do it  

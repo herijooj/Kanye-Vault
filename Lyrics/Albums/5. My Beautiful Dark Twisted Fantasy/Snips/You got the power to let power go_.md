@@ -1,5 +1,6 @@
 # You Got the [[3. Power|Power]] to Let [[3. Power|Power]] Go?
 
+> [!quote] You Got the [[3. Power|Power]] to Let [[3. Power|Power]] Go?
 Now this will be a beautiful death  
 I'm jumping out the window, I'm letting everything go  
 I'm letting everything go  

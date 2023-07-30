@@ -1,5 +1,6 @@
 # You Should Be Grateful a Nigga Like Me Ever Noticed You
 
+> [!quote] You Should Be Grateful a Nigga Like Me Ever Noticed You
 Every time I hear about other niggas is strokin' you  
 Lie and say I hit you, he sittin' there consoling you  
 Runnin' my name through the mud, who's provoking you?  

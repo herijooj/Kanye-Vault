@@ -1,5 +1,6 @@
 # Only Problem is I'm Rich
 
+> [!quote] Only Problem is I'm Rich
 I bet me and Ray J would be friends  
 If we ain't love the same bitch  
 Yeah, he might have hit it first  

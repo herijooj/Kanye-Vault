@@ -1,5 +1,6 @@
 # Donald Trump Taking Dollars From Y'all
 
+> [!quote] Donald Trump Taking Dollars From Y'all
 I'm so appalled, Spalding, ball  
 Balding [[7. So Apalled#^94c350|Donald Trump taking dollars from y'all]]
 Baby, you're fired, your girlfriend hired  

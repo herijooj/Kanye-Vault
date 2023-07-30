@@ -5,6 +5,8 @@
 You know what? Maybe you're right  
 Aight?  
 
+^071b88
+
 ## You Always Thought I Was Always Wrong
 
 > [!quote] You Always Thought I Was Always Wrong

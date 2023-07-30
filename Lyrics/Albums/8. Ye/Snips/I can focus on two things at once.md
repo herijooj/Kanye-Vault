@@ -1,5 +1,6 @@
 # I Can Focus on Two Things at Once
 
+> [!quote] I Can Focus on Two Things at Once
 Right now, let's do what we want  
 Let's have a [[threesome]]: me, you, and a blunt  
 I love your titties 'cause they prove  

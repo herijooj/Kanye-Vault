@@ -1,5 +1,6 @@
 # At Least You Know That's What I'm Good at
 
+> [!quote] At Least You Know That's What I'm Good at
 See, I could have me a good girl  
 And still be addicted to them hood rats  
 And I just blame everything on you  

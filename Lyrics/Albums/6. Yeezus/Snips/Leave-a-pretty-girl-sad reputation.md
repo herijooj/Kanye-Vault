@@ -1,5 +1,6 @@
 # Leave-a-pretty-girl-sad Reputation
 
+> [!quote] Leave-a-pretty-girl-sad Reputation
 I know I got a bad reputation  
 Walking-round-always-mad reputation  
 [[10. Bound 2#^d45df0|Leave-a-pretty-girl-sad reputation]]  

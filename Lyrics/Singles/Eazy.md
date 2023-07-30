@@ -9,7 +9,7 @@ _[The Game:]_
 Started in my Cutlass clutchin' heat like it's an open oven  
 Puffin' chronic, Puff and Biggie out the window, speaker subbin'  
 Runnin' to the crips, it ain't no discussion  
-Bullet wounds drenched in [[Henessy|Hennessey]] and tea spoons of Robitussin  
+Bullet wounds drenched in [[Hennessy|Hennessey]] and tea spoons of Robitussin  
 Head up faze, got a few concussion, yeah  
 Compton's amazed, Dr. Dre percussion  
 God, please grant my nigga eternal life, we need the beats  

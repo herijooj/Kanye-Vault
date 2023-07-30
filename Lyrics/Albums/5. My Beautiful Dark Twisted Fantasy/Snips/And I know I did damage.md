@@ -1,5 +1,6 @@
 # And I Know I Did Damage
 
+> [!quote] And I Know I Did Damage
 Never was much of a romantic  
 I could never take the intimacy  
 [[9. Runaway#^37ed65|And I know I did damage]]  

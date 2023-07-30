@@ -53,7 +53,7 @@ How-h-how long you ball? All day, nigga
 How much time you spent at the mall? All day, nigga  
 How long it take you to get this fly? All day, nigga  
 Tell your P.O. how-how long you been high? All day, nigga  
-Pour some [[Henessy|Hen]] out for my niggas that died, all day, nigga  
+Pour some [[Hennessy|Hen]] out for my niggas that died, all day, nigga  
 And I keep a bad bitch on the passenger side, all day, nigga  
 You already know that I’m straight from the [[Chicago|Chi]], all day, nigga  
 South, south, south side! All day, nigga  
