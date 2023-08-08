@@ -92,7 +92,7 @@ You black and you rich, they sayin' you psycho (What?), it's like a cycle
 If you text me anything hype you better text back and say it's a typo  
 The city of Gods, no city is like you  
 This the new New York, Ye is the goat  
-Fivi' is viral and this is the B.I.B.L.E (What?)  
+Fivi' is viral and this is the B.I.B.L.E (What?)   ^6f46a3
 
 ## [Chorus: Alicia Keys & _Playboi Carti_]
 
