@@ -13,5 +13,7 @@
   "newFileLocation": "current",
   "newFileFolderPath": "pages",
   "attachmentFolderPath": "./scr",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "foldIndent": false
 }
