@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "29d022e83bcba649",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b03acd99ca5567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fd5be3ab43903df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanye Vault.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2d335c82e71dabe",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a529585226809e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce1ba997f0bc14b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd56f17372dbc9c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "shorty",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "600d6932d631c28d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ca111b3401be295d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6c30e979b85d63e",
+        "type": "tabs",
+        "dimension": 70.76023391812866,
+        "children": [
+          {
+            "id": "13a3d141a1f34064",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanye Vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b276f61c3d5ee3e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanye Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b363d20eca741ea7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0eb4fde5c91925ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanye Vault.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "acc8ba2e3bcb908a",
+        "type": "tabs",
+        "dimension": 29.239766081871345,
+        "children": [
+          {
+            "id": "8816309c11b4cff7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Kanye Vault.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.9,
+                  "nodeSizeMultiplier": 0.7890625,
+                  "lineSizeMultiplier": 0.916666666666667,
+                  "collapse-forces": false,
+                  "centerStrength": 0.760416666666667,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 128,
+                  "scale": 0.3948730837205048,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "545304f17f8b9083",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a83281fd9d9a04aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "2fd5be3ab43903df",
+  "lastOpenFiles": [
+    "Lyrics/Singles/Snips/I guess we'll never know..md",
+    "Lyrics/Singles/47th Annual Grammy Speech.md",
+    "Lyrics/Albums/3. Graduation/Snips/why can't life always be this easy.md",
+    "Lyrics/Albums/4. 808s & Heartbreak/3.  Heartless.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/7. So Apalled.md",
+    "Lyrics/Albums/10. Donda/Snips/She saw the vision.md",
+    "Lyrics/Albums/6. Yeezus/KeyWords/GangBang.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Tell them Yeezy said they can kiss my whole ass.md",
+    "Lyrics/Albums/4. 808s & Heartbreak/8. Street Lights.md",
+    "Lyrics/Albums/3. Graduation/16. Can't Tell Me Nothing (Remix).md",
+    "Lyrics/Albums/7. The Life of Pablo/Snips/I need a happy beginnin', middle and endin'.md",
+    "Lyrics/Unnoficial/Yandhi/Hurricane.md",
+    "Lyrics/Albums/2. Late Registration/4. Gold Digger.md",
+    "Lyrics/Unnoficial/Snips/Tweeted \"death con,\" now we past three.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/I hope you have a good time  'Cause I definitely be havin' mine.md",
+    "Lyrics/Albums/7. The Life of Pablo/Snips/The problem ain't I be drivin', the problem is I be textin'.md",
+    "Lyrics/Collaborations/3. Kids See Ghosts/7. Cudi Montage.md",
+    "Lyrics/Albums/3. Graduation/Snips/I'd never hit a girl, but I'll shake the shit out of you.md",
+    "Lyrics/Albums/6. Yeezus/Snips/Soon as they like you make 'em unlike you.md",
+    "Lyrics/Albums/10. Donda/11. 24.md",
+    "Lyrics/Collaborations/2. Cruel Summer/2. Clique.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/KeyWords/Bloggers.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Thought I'd die in your arms.md",
+    "Lyrics/Albums/8. Ye/7. Violent Crimes.md",
+    "Lyrics/Albums/3. Graduation/3. Stronger.md",
+    "Lyrics/Albums/10. Donda/6. Praise God.md",
+    "Lyrics/Singles/scr/Jesus piece.png",
+    "Lyrics/Singles/Snips/scr",
+    "Faculdade/Matérias/Projetos Digitais/scr/Maquina de estados Aula 1.png",
+    "Faculdade/Matérias/Projetos Digitais/scr/Karfig.png",
+    "Faculdade/Matérias/Projetos Digitais/scr/circuitoa1.png",
+    "Faculdade/Matérias/Projetos Digitais/scr/Pasted image 20220801124749.png",
+    "Faculdade/Matérias/Projetos Digitais/scr/Pasted image 20220801123202.png",
+    "Faculdade/Matérias/Projetos Digitais/scr/Pasted image 20220801123144.png",
+    "Faculdade/Matérias/Projetos Digitais/scr/Pasted image 20220801123142.png",
+    "Faculdade/Matérias/Projetos Digitais/scr/Pasted image 20220801122749.png"
+  ]
+}
