@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shorty",
+                "query": "fish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
     "id": "ca111b3401be295d",
@@ -79,7 +79,7 @@
       {
         "id": "b6c30e979b85d63e",
         "type": "tabs",
-        "dimension": 70.76023391812866,
+        "dimension": 77.77777777777779,
         "children": [
           {
             "id": "13a3d141a1f34064",
@@ -94,7 +94,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -105,7 +105,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Kanye Vault.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -131,12 +131,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "acc8ba2e3bcb908a",
         "type": "tabs",
-        "dimension": 29.239766081871345,
+        "dimension": 22.22222222222222,
         "children": [
           {
             "id": "8816309c11b4cff7",
@@ -209,32 +210,35 @@
   },
   "active": "2fd5be3ab43903df",
   "lastOpenFiles": [
-    "Lyrics/Singles/Snips/I guess we'll never know..md",
-    "Lyrics/Singles/47th Annual Grammy Speech.md",
-    "Lyrics/Albums/3. Graduation/Snips/why can't life always be this easy.md",
-    "Lyrics/Albums/4. 808s & Heartbreak/3.  Heartless.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/7. So Apalled.md",
-    "Lyrics/Albums/10. Donda/Snips/She saw the vision.md",
-    "Lyrics/Albums/6. Yeezus/KeyWords/GangBang.md",
+    "Lyrics/Unnoficial/Yandhi/Yandhi.md",
+    "Lyrics/Unnoficial/Donda/Life of the party (Unofficial).md",
+    "Lyrics/Unnoficial/Donda 2/True Love (Unofficial).md",
+    "Lyrics/Unnoficial/Donda 2/Donda 2.md",
+    "Lyrics/Unnoficial/Donda/Donda (Unofficial).md",
+    "Unnoficial.md",
+    "Lyrics/Unnoficial/Donda 2/Someday We All Be Free.md",
+    "Lyrics/Unnoficial/Donda 2/530.md",
+    "Lyrics/Unnoficial/Donda 2/Snips/Tweeted \"death con,\" now we past three.md",
+    "Lyrics/Unnoficial/Donda 2/Snips/There's a lot of things that I love.md",
+    "Lyrics/Unnoficial/Donda/Snips/Mama, your son in the red hat.md",
+    "Lyrics/Albums/10. Donda/Snips/If I hit you with a \"W-Y-D?\".md",
+    "Lyrics/Albums/10. Donda/18. New Again.md",
+    "Lyrics/Albums/10. Donda/10. Believe What I Say.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Choke a South Park writer with a fish-stick.md",
     "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Tell them Yeezy said they can kiss my whole ass.md",
-    "Lyrics/Albums/4. 808s & Heartbreak/8. Street Lights.md",
-    "Lyrics/Albums/3. Graduation/16. Can't Tell Me Nothing (Remix).md",
-    "Lyrics/Albums/7. The Life of Pablo/Snips/I need a happy beginnin', middle and endin'.md",
-    "Lyrics/Unnoficial/Yandhi/Hurricane.md",
-    "Lyrics/Albums/2. Late Registration/4. Gold Digger.md",
-    "Lyrics/Unnoficial/Snips/Tweeted \"death con,\" now we past three.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/I hope you have a good time  'Cause I definitely be havin' mine.md",
-    "Lyrics/Albums/7. The Life of Pablo/Snips/The problem ain't I be drivin', the problem is I be textin'.md",
-    "Lyrics/Collaborations/3. Kids See Ghosts/7. Cudi Montage.md",
-    "Lyrics/Albums/3. Graduation/Snips/I'd never hit a girl, but I'll shake the shit out of you.md",
-    "Lyrics/Albums/6. Yeezus/Snips/Soon as they like you make 'em unlike you.md",
-    "Lyrics/Albums/10. Donda/11. 24.md",
-    "Lyrics/Collaborations/2. Cruel Summer/2. Clique.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/KeyWords/Bloggers.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Thought I'd die in your arms.md",
-    "Lyrics/Albums/8. Ye/7. Violent Crimes.md",
-    "Lyrics/Albums/3. Graduation/3. Stronger.md",
-    "Lyrics/Albums/10. Donda/6. Praise God.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/2. Gorgeous.md",
+    "Lyrics/Albums/4. 808s & Heartbreak/808s & Heartbreak.md",
+    "Lyrics/Unnoficial/Donda/Snips",
+    "Lyrics/Unnoficial/Donda",
+    "Lyrics/Unnoficial/Donda 2",
+    "Lyrics/Albums/10. Donda/28. Life of the Party.md",
+    "Kanye Vault.md",
+    "Lyrics/Albums/7. The Life of Pablo/6. Low Lights.md",
+    "Lyrics/Albums/10. Donda/20. Lord I Need You.md",
+    "Lyrics/Albums/9. Jesus Is King/11. Jesus Is Lord.md",
+    "Lyrics/Singles/Ye vs. the People.md",
+    "Lyrics/Singles/White Dress.md",
+    "Lyrics/Singles/True Love.md",
     "Lyrics/Singles/scr/Jesus piece.png",
     "Lyrics/Singles/Snips/scr",
     "Faculdade/Matérias/Projetos Digitais/scr/Maquina de estados Aula 1.png",
