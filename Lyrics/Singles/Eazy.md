@@ -21,7 +21,7 @@ Grandmama whoopins in school
 This Wilmington and Brazil where niggas die in they jewels  
 Too many Problems, too many YGs  
 So many ties to dollar signs, easy to end up on E  
-I got shot up like Columbine, the crips descended on me  
+[[I got shot up like Columbine]], the crips descended on me  
 Sign my name on the dotted line, that was Venice on beats  
 This is the way  
 

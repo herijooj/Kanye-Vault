@@ -11,13 +11,8 @@
             "id": "2fd5be3ab43903df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kanye Vault.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 340.5
   },
   "right": {
     "id": "ca111b3401be295d",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanye Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanye Vault.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,13 +119,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kanye Vault.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "acc8ba2e3bcb908a",
@@ -145,7 +135,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kanye Vault.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,6 +199,22 @@
   },
   "active": "2fd5be3ab43903df",
   "lastOpenFiles": [
+    "Lyrics/Singles/Vultures   (feat. Bump J).md",
+    "Lyrics/Singles/Snips/This ain't Columbine.md",
+    "Lyrics/Singles/KeyWords/Columbine.md",
+    "Lyrics/Singles/KeyWords",
+    "Lyrics/Singles/Eazy.md",
+    "Lyrics/Singles/Snips/I got shot up like Columbine.md",
+    "Lyrics/Singles/Snips/I beat up the pussy for Ukraine.md",
+    "Lyrics/Singles/Snips/I got Alzheimer's.md",
+    "Lyrics/Singles/Snips/I guess we'll never know..md",
+    "Lyrics/Singles/Snips/How I'm anti-Semitic?.md",
+    "Lyrics/Singles/All Day.md",
+    "Lyrics/Singles/scr/Vultures.jpg",
+    "Singles.md",
+    "Lyrics/Singles/True Love.md",
+    "Kanye Vault.md",
+    "Lyrics/Albums/3. Graduation/Snips/Now this Hennessy, uh, it's gonna be the death of me.md",
     "Lyrics/Unnoficial/Yandhi/Yandhi.md",
     "Lyrics/Unnoficial/Donda/Life of the party (Unofficial).md",
     "Lyrics/Unnoficial/Donda 2/True Love (Unofficial).md",
@@ -222,23 +227,9 @@
     "Lyrics/Unnoficial/Donda 2/Snips/There's a lot of things that I love.md",
     "Lyrics/Unnoficial/Donda/Snips/Mama, your son in the red hat.md",
     "Lyrics/Albums/10. Donda/Snips/If I hit you with a \"W-Y-D?\".md",
-    "Lyrics/Albums/10. Donda/18. New Again.md",
-    "Lyrics/Albums/10. Donda/10. Believe What I Say.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Choke a South Park writer with a fish-stick.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/Snips/Tell them Yeezy said they can kiss my whole ass.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/2. Gorgeous.md",
-    "Lyrics/Albums/4. 808s & Heartbreak/808s & Heartbreak.md",
     "Lyrics/Unnoficial/Donda/Snips",
     "Lyrics/Unnoficial/Donda",
     "Lyrics/Unnoficial/Donda 2",
-    "Lyrics/Albums/10. Donda/28. Life of the Party.md",
-    "Kanye Vault.md",
-    "Lyrics/Albums/7. The Life of Pablo/6. Low Lights.md",
-    "Lyrics/Albums/10. Donda/20. Lord I Need You.md",
-    "Lyrics/Albums/9. Jesus Is King/11. Jesus Is Lord.md",
-    "Lyrics/Singles/Ye vs. the People.md",
-    "Lyrics/Singles/White Dress.md",
-    "Lyrics/Singles/True Love.md",
     "Lyrics/Singles/scr/Jesus piece.png",
     "Lyrics/Singles/Snips/scr",
     "Faculdade/Matérias/Projetos Digitais/scr/Maquina de estados Aula 1.png",
