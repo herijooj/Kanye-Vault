@@ -43,4 +43,4 @@
 
 # [[Hot Shit]]
 
-# [[Vultures   (feat. Bump J)]]
+# [[Vultures]]

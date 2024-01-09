@@ -6,7 +6,7 @@ A Obsidian Vault with lyrics from the entire Kanye West Discography.
 
 Import this Vault to Obsidian, the important files are:
 
-	[Kanye Vault](Kanye Vault.md)  
+	[[Kanye Vault]]([[Kanye Vault]].md)  
 	[Albums](Albums.md)  
 	[Collaborations](Collaborations.md)  
 	[MixTapes](MixTapes.md)  

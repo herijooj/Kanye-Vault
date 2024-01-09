@@ -11,8 +11,13 @@
             "id": "2fd5be3ab43903df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lyrics/Unnoficial/Donda 2/530.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fish",
+                "query": "how long ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 348.5
   },
   "right": {
     "id": "ca111b3401be295d",
@@ -74,7 +79,7 @@
       {
         "id": "b6c30e979b85d63e",
         "type": "tabs",
-        "dimension": 77.77777777777779,
+        "dimension": 52.33333333333333,
         "children": [
           {
             "id": "13a3d141a1f34064",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lyrics/Unnoficial/Donda 2/530.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lyrics/Unnoficial/Donda 2/530.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lyrics/Unnoficial/Donda 2/530.md"
+              }
             }
           }
         ]
@@ -127,7 +136,7 @@
       {
         "id": "acc8ba2e3bcb908a",
         "type": "tabs",
-        "dimension": 22.22222222222222,
+        "dimension": 47.66666666666667,
         "children": [
           {
             "id": "8816309c11b4cff7",
@@ -135,10 +144,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lyrics/Unnoficial/Donda 2/530.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -157,7 +167,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 128,
-                  "scale": 0.3948730837205048,
+                  "scale": 0.27693489338787103,
                   "close": true
                 }
               }
@@ -187,46 +197,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "random-note:Abrir nota aleatória": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false
     }
   },
   "active": "2fd5be3ab43903df",
   "lastOpenFiles": [
-    "Lyrics/Singles/Vultures   (feat. Bump J).md",
-    "Lyrics/Singles/Snips/This ain't Columbine.md",
-    "Lyrics/Singles/KeyWords/Columbine.md",
-    "Lyrics/Singles/KeyWords",
-    "Lyrics/Singles/Eazy.md",
-    "Lyrics/Singles/Snips/I got shot up like Columbine.md",
-    "Lyrics/Singles/Snips/I beat up the pussy for Ukraine.md",
-    "Lyrics/Singles/Snips/I got Alzheimer's.md",
-    "Lyrics/Singles/Snips/I guess we'll never know..md",
-    "Lyrics/Singles/Snips/How I'm anti-Semitic?.md",
-    "Lyrics/Singles/All Day.md",
-    "Lyrics/Singles/scr/Vultures.jpg",
-    "Singles.md",
-    "Lyrics/Singles/True Love.md",
-    "Kanye Vault.md",
-    "Lyrics/Albums/3. Graduation/Snips/Now this Hennessy, uh, it's gonna be the death of me.md",
-    "Lyrics/Unnoficial/Yandhi/Yandhi.md",
-    "Lyrics/Unnoficial/Donda/Life of the party (Unofficial).md",
-    "Lyrics/Unnoficial/Donda 2/True Love (Unofficial).md",
     "Lyrics/Unnoficial/Donda 2/Donda 2.md",
-    "Lyrics/Unnoficial/Donda/Donda (Unofficial).md",
-    "Unnoficial.md",
     "Lyrics/Unnoficial/Donda 2/Someday We All Be Free.md",
-    "Lyrics/Unnoficial/Donda 2/530.md",
-    "Lyrics/Unnoficial/Donda 2/Snips/Tweeted \"death con,\" now we past three.md",
-    "Lyrics/Unnoficial/Donda 2/Snips/There's a lot of things that I love.md",
-    "Lyrics/Unnoficial/Donda/Snips/Mama, your son in the red hat.md",
-    "Lyrics/Albums/10. Donda/Snips/If I hit you with a \"W-Y-D?\".md",
+    "Lyrics/Unnoficial/Donda 2/True Love (Unofficial).md",
+    "Lyrics/Unnoficial/Donda/Life of the party (Unofficial).md",
+    "Lyrics/Unnoficial/Donda/Donda (Unofficial).md",
+    "Lyrics/Singles/Vultures.md",
+    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/9. Runaway.md",
+    "Kanye Vault.md",
+    "Lyrics/Unnoficial/Yandhi/Yandhi.md",
+    "Unnoficial.md",
+    "Lyrics/Albums/2. Late Registration/Late Registration.md",
+    "Lyrics/Albums/2. Late Registration/14. We Major.md",
+    "Lyrics/Albums/2. Late Registration/Snips/Everybody feel a way about K but at least y'all feel something.md",
+    "Lyrics/Albums/2. Late Registration/1. Wake Up Mr. West.md",
+    "Lyrics/Albums/7. The Life of Pablo/4. Famous.md",
+    "Lyrics/Albums/2. Late Registration/Your girl don't like me, how long has she been gay?.md",
+    "Lyrics/Albums/7. The Life of Pablo/KeyWords/Debt.md",
+    "Lyrics/Albums/7. The Life of Pablo/Snips/I made that bitch famous.md",
+    "Lyrics/Albums/3. Graduation/Snips/Can I talk my shit again?.md",
+    "Lyrics/Albums/2. Late Registration/21. Late.md",
+    "Albums.md",
+    "Lyrics/Albums/1. The College Dropout/Snips/Your girl don't like me, how long has she been gay.md",
+    "Lyrics/Albums/2. Late Registration/10. Bring Me Down.md",
+    "Lyrics/Collaborations/3. Kids See Ghosts/6. Kids See Ghosts.md",
+    "Lyrics/Albums/10. Donda/Snips/And I repent for everything I'ma do again.md",
+    "Lyrics/Collaborations/3. Kids See Ghosts/Snips/Constantly repentin.md",
+    "Lyrics/Collaborations/3. Kids See Ghosts/Snips",
+    "Lyrics/Singles/KeyWords",
+    "Lyrics/Singles/scr/Vultures.jpg",
     "Lyrics/Unnoficial/Donda/Snips",
     "Lyrics/Unnoficial/Donda",
     "Lyrics/Unnoficial/Donda 2",

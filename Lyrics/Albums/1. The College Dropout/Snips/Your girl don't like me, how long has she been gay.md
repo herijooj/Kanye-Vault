@@ -1,6 +1,6 @@
 # Your Girl Don't Like Me, How Long Has She Been Gay?
 
-> [!quote]
+> [!quote] Your girl don't like me
 Your girl don't like me, [[10. Bring Me Down#^e1e353|how long has she been gay?]]  
 Spanish girls say, "Yo, no hablo inglés."  
 And everybody want to run to me for their single  
