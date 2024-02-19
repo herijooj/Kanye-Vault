@@ -9,7 +9,7 @@ So I guess we just pray like the minister say
 # [[9. Roses]] | If Magic Johnson Got a Cure for AIDS
 
 > [!quote]
-You know the best medicine go to people that's paid  
+You know the best medicine go to people that's [[3. PAID|paid]]  
 If [[9. Roses#^6f3c08|Magic Johnson got a cure for AIDS]]  
 And all the broke motherfuckers passed away  
 You telling me if my grandma's in the NBA  

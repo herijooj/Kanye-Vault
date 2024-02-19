@@ -1,3 +1,7 @@
+---
+aliases: Watch The Trone.md, watch the trone.md
+---
+
 # [[1. No Church in the Wild]]
 
 # [[2. Lift Off]]

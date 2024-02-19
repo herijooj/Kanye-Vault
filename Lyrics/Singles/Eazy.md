@@ -68,9 +68,9 @@ Only God did this
 There it is, there it was  
 Don't interrupt, just because  
 Ain't no love, shoulder shrug  
-Won't He do it? Yes He does  
-Won't He do it? Yes He does  
-Won't He do it?  
+Won't He [[7. DO IT|do it]]? Yes He does  
+Won't He [[7. DO IT|do it]]? Yes He does  
+Won't He [[7. DO IT|do it]]?  
 
 _[Kanye West (Michel'le):]_  
 My life was never- (Eazy)  

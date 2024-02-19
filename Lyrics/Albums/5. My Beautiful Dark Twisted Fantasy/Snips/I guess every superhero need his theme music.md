@@ -2,7 +2,7 @@
 
 > [!quote] I Guess Every Superhero Need His Theme Music
 I'm living in that 21st century, doing something mean to it  
-Do it better than anybody you ever seen do it  
+[[7. DO IT|Do it]] better than anybody you ever seen [[7. DO IT|do it]]  
 Screams from the haters got a nice ring to it  
 [[3. Power#^72954e|I guess every superhero need his theme music]]
 

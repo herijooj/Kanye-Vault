@@ -1,3 +1,7 @@
+---
+aliases: Kids See Ghosts.md, kids see ghosts.md
+---
+
 # Kids See Ghosts
 
 # [[1. Feel the Love]]

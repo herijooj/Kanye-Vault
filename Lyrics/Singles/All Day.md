@@ -68,7 +68,7 @@ Stupid niggas gettin' money, Forrest Gump right now
 Shout-out to Jackie Chan, I need to stunt right now  
 They've been lookin' at the Gram, I've been lookin' at the Grammys  
 Like, woo, that's us right now  
-24/7, 365 days, everybody gettin' paid  
+24/7, 365 days, everybody gettin' [[3. PAID|paid]]  
 Niggas lookin' at me like I'm worth both MJs  
 People saying, "Ye, Ye, take it easy"  
 20 Gs for the Yeezy's off of eBay  

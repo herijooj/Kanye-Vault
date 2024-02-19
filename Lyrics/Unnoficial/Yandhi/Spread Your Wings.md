@@ -15,7 +15,7 @@ I don't know you, my dawg, step away from the bus
 Know they want me to fall, but my balance is just  
 You weren't with me when them struggles and battles was tough  
 So I cut your head off 'fore I give you a cut  
-When they tell me I can't do it, it give me a rush  
+When they tell me I can't [[7. DO IT|do it]], it give me a rush  
 Ain't got this type of bank account 'less you 50 and up  
 They on my muhfuckin' dick, all this dirt they tryin' get  
 Go with whoever, I ain't got no pick  

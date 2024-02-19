@@ -7,11 +7,11 @@ And dropped out of school quick
 
 ---
 
-## [[21. Last Call]] | Please Stop Talking About How My Dick Head is
+## [[21. Last Call]] | Please Stop [[4. TALKING|Talking]] About How My Dick Head is
 
-> [!quote] Please stop talking about how my dick head is
+> [!quote] Please stop [[4. TALKING|talking]] about how my dick head is
 They say he bougie, he big-headed  
-Would you please stop talking about how my dick head is
+Would you please stop [[4. TALKING|talking]] about how my dick head is
 
 ---
 

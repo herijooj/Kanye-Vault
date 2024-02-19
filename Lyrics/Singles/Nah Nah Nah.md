@@ -45,7 +45,7 @@ They'll put theyself in harm's way, the slaves are massive
 Do you want me to get specific?  
 Do you want me to name numbers?  
 Do you want me to name summers?  
-All the stars came from us  
+All the [[1. STARS|stars]] came from us  
 All the styles came from us  
 All the talent came from us  
 All the shoes came from us  

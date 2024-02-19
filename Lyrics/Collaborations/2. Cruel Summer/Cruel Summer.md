@@ -1,3 +1,7 @@
+---
+aliases: Cruel Summer.md, cruel summer.md
+---
+
 # Cruel Summer
 
 # [[1. To The World]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52b03acd99ca5567",
+        "id": "38753d13237ab2db",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd5be3ab43903df",
+            "id": "c49924f704ccdf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lyrics/Unnoficial/Donda 2/530.md",
+                "file": "Kanye Vault.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "how long ",
+                "query": "talking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 277.5
   },
   "right": {
     "id": "ca111b3401be295d",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lyrics/Unnoficial/Donda 2/530.md",
+                "file": "Kanye Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lyrics/Unnoficial/Donda 2/530.md",
+                "file": "Kanye Vault.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lyrics/Unnoficial/Donda 2/530.md"
+                "file": "Kanye Vault.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lyrics/Unnoficial/Donda 2/530.md",
+                "file": "Kanye Vault.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,56 +193,60 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir importador Markdown": false,
-      "random-note:Abrir nota aleatória": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "2fd5be3ab43903df",
+  "active": "c49924f704ccdf8e",
   "lastOpenFiles": [
-    "Lyrics/Unnoficial/Donda 2/Donda 2.md",
-    "Lyrics/Unnoficial/Donda 2/Someday We All Be Free.md",
-    "Lyrics/Unnoficial/Donda 2/True Love (Unofficial).md",
-    "Lyrics/Unnoficial/Donda/Life of the party (Unofficial).md",
-    "Lyrics/Unnoficial/Donda/Donda (Unofficial).md",
-    "Lyrics/Singles/Vultures.md",
-    "Lyrics/Albums/5. My Beautiful Dark Twisted Fantasy/9. Runaway.md",
-    "Kanye Vault.md",
-    "Lyrics/Unnoficial/Yandhi/Yandhi.md",
-    "Unnoficial.md",
-    "Lyrics/Albums/2. Late Registration/Late Registration.md",
-    "Lyrics/Albums/2. Late Registration/14. We Major.md",
-    "Lyrics/Albums/2. Late Registration/Snips/Everybody feel a way about K but at least y'all feel something.md",
-    "Lyrics/Albums/2. Late Registration/1. Wake Up Mr. West.md",
-    "Lyrics/Albums/7. The Life of Pablo/4. Famous.md",
-    "Lyrics/Albums/2. Late Registration/Your girl don't like me, how long has she been gay?.md",
-    "Lyrics/Albums/7. The Life of Pablo/KeyWords/Debt.md",
-    "Lyrics/Albums/7. The Life of Pablo/Snips/I made that bitch famous.md",
-    "Lyrics/Albums/3. Graduation/Snips/Can I talk my shit again?.md",
-    "Lyrics/Albums/2. Late Registration/21. Late.md",
-    "Albums.md",
-    "Lyrics/Albums/1. The College Dropout/Snips/Your girl don't like me, how long has she been gay.md",
-    "Lyrics/Albums/2. Late Registration/10. Bring Me Down.md",
+    "Lyrics/Collaborations/4. Vultures 1/Vultures 1.md",
+    "Lyrics/Collaborations/4. Vultures 1/16. KING.md",
     "Lyrics/Collaborations/3. Kids See Ghosts/6. Kids See Ghosts.md",
-    "Lyrics/Albums/10. Donda/Snips/And I repent for everything I'ma do again.md",
-    "Lyrics/Collaborations/3. Kids See Ghosts/Snips/Constantly repentin.md",
+    "Lyrics/Collaborations/4. Vultures 1/15. PROBLEMATIC.md",
+    "Lyrics/Collaborations/4. Vultures 1/14. GOOD (DON'T DIE).md",
+    "Lyrics/Collaborations/4. Vultures 1/13. BEG FORGIVENESS.md",
+    "Lyrics/Collaborations/4. Vultures 1/12. CARNIVAL.md",
+    "Lyrics/Collaborations/4. Vultures 1/11. VULTURES.md",
+    "Lyrics/Collaborations/4. Vultures 1/10. FUK SUMN.md",
+    "Lyrics/Collaborations/4. Vultures 1/9. BURN.md",
+    "Lyrics/Collaborations/4. Vultures 1/8. PAPERWORK.md",
+    "Lyrics/Collaborations/4. Vultures 1/7. DO IT.md",
+    "Lyrics/Collaborations/4. Vultures 1/6. HOODRAT.md",
+    "Lyrics/Collaborations/4. Vultures 1/5. BACK TO ME.md",
+    "Lyrics/Collaborations/4. Vultures 1/4. TALKING.md",
+    "Lyrics/Collaborations/4. Vultures 1/3. PAID.md",
+    "Lyrics/Albums/4. 808s & Heartbreak/8. Street Lights.md",
+    "Lyrics/Albums/1. The College Dropout/2. We Don't Care.md",
+    "Lyrics/Collaborations/4. Vultures 1/2. KEYS TO MY LIFE.md",
+    "Lyrics/Collaborations/4. Vultures 1/1. STARS.md",
+    "Lyrics/Singles/Eazy.md",
+    "alias.sh",
+    "Lyrics/Singles/Classic (Better Than I've Ever Been).md",
+    "Lyrics/Singles/City of Gods.md",
+    "Lyrics/Singles/Christmas in Harlem.md",
+    "Lyrics/Singles/Champions.md",
+    "Lyrics/Singles/47th Annual Grammy Speech.md",
+    "Lyrics/Collaborations/4. Vultures 1/temp",
+    "Lyrics/Collaborations/3. Kids See Ghosts/temp",
+    "Lyrics/Collaborations/2. Cruel Summer/temp",
+    "Lyrics/Collaborations/1. Watch The Trone/temp",
+    "Lyrics/Collaborations/alias.sh",
+    "Lyrics/Collaborations/4. Vultures 1/Snips",
+    "Lyrics/Collaborations/4. Vultures 1/scr",
     "Lyrics/Collaborations/3. Kids See Ghosts/Snips",
     "Lyrics/Singles/KeyWords",
     "Lyrics/Singles/scr/Vultures.jpg",
-    "Lyrics/Unnoficial/Donda/Snips",
-    "Lyrics/Unnoficial/Donda",
-    "Lyrics/Unnoficial/Donda 2",
     "Lyrics/Singles/scr/Jesus piece.png",
-    "Lyrics/Singles/Snips/scr",
     "Faculdade/Matérias/Projetos Digitais/scr/Maquina de estados Aula 1.png",
     "Faculdade/Matérias/Projetos Digitais/scr/Karfig.png",
     "Faculdade/Matérias/Projetos Digitais/scr/circuitoa1.png",

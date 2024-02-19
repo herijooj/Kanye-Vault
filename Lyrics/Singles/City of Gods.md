@@ -9,7 +9,7 @@ New York City, please go easy on this heart of mine (What?)
 
 Yeah, look, huh, nigga, this is my shit  
 Welcome to the city of Gods (What?)  
-Pop was the king of New York, now I'm the nigga in charge  
+Pop was the [[16. KING|king]] of New York, now I'm the nigga in charge  
 Only the drillers, the city is ours  
 We found out the [[opp|opps]] and we pick 'em apart  
 I give 'em my time so I give 'em my heart  

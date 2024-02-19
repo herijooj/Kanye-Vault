@@ -2,7 +2,7 @@
 
 > [!quote] I Had a Cousin That Stole My Laptop
 [[12. Real Friends#^9abc89|I had a cousin that stole my laptop]] that I was fuckin' bitches on  
-Paid that nigga 250 thousand just to get it from him
+[[3. PAID|Paid]] that nigga 250 thousand just to get it from him
 
 ---
 

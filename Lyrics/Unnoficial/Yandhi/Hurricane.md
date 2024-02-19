@@ -38,7 +38,7 @@ Lift up the child, I know we will
 [Verse 2: Big Sean]  
 Woah, woah, yeah, yeah  
 Look, my life is exciting as Dennis Rodman's (Woah)  
-Stars intertwine, my soul back in alignment  
+[[1. STARS|Stars]] intertwine, my soul back in alignment  
 If we don't have the same vision, no point in exchanging contact (No)  
 Only ex I love running into is at the end of my contracts, yeah  
 Bottom line, I'm seeing through the mask of the fakes  
@@ -129,7 +129,7 @@ They excited us, with they [?], what they write us
 Couldn't write it up  
 [?], They ain't light enough, They ain't do enough  
 He ain't do enough, They was going off, They was cool with us  
-'Til we do it up, Then we do the most, Then we do the most  
+'Til we [[7. DO IT|do it]] up, Then we do the most, Then we do the most  
 [?]  
 [?], [?], …Getting you to vote  
 Hold em… [?], In the thunderstorm  

@@ -37,7 +37,7 @@ used to have the bitch in the back of the Cadillac (it's just impossible)
 
 Niggas always hatin  
 leaving me for wilin out for po kim  
-you be sittin back talking yo shit  
+you be sittin back [[4. TALKING|talking]] yo shit  
 I cant help but I see you tho, I don't get it (Its impossible)  
 
 Lil mama, for you to fit all that up in a pants; booty kinda wide  
@@ -51,7 +51,7 @@ _[CHORUS]_
 _[Verse 3]_  
 _[Kanye]_  
 Get it; bundled up and - lit it; smoke a lil blunt don't - admit it  
-do it like I did too late - I did it  
+[[7. DO IT|do it]] like I did too late - I did it  
 The controversy cant worse me man; I'm eating but I'm still thirsty and  
 Thirsty what is you saying  
 I gotta a duel with a couple niggas that's Thursday man  

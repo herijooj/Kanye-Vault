@@ -77,7 +77,7 @@ Life is such a fuckin' roller coaster, then it drops
 But what should I scream for? This is my theme park  
 My mind shine even when my thoughts seem dark  
 Pistol on my side, you don't wanna hear that thing talk  
-Let the king talk, check the price and pay attention  
+Let the [[16. KING|king]] talk, check the price and pay attention  
 Lil Wayne, that's what they gotta say or mention  
 I'm like Nevada in the middle of the summer  
 I'm restin' in the lead, I need a pillow and a cover  

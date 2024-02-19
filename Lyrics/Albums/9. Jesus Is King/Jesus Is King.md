@@ -1,4 +1,4 @@
-# Jesus Is King
+# Jesus Is [[16. KING|King]]
 
 # [[1. Every Hour]]
 

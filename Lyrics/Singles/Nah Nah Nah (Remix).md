@@ -47,7 +47,7 @@ He could teach me the word, I'll never forget it
 Forgive me and her, it's a time for repentin'  
 And it clap like, "Amen," from the back when I hit it  
 I'm black, I'm so black, I'm so black they can feel it  
-Paid three million cash in my taxes on Wednesday  
+[[3. PAID|Paid]] three million cash in my taxes on Wednesday  
 The government I'm payin' them millions to  
 They don't care about niggas when white people kill 'em  
 

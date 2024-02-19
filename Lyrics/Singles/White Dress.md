@@ -32,7 +32,7 @@ Ain't no denying, baby, you have changed
 Your hips start switching, you're pissed off, tripping  
 'Cause even when we're kissing, baby girl feel different  
 Friends all diss him like, "No he didn't?  
-No he didn't, is you talking about Kitten?  
+No he didn't, is you [[4. TALKING|talking]] about Kitten?  
 Is that bitch still stripping?  
 Trying to get a pair of [[She spent her whole check on some Christians|Christians]]?"  
 I swear to God that they got you going crazy  
@@ -76,7 +76,7 @@ Well, we gon' tour the countryside and they won't be invited
 We will not be disturbed by the fussing and fighting  
 Tell Peaches light the herb 'cause we just reunited  
 Let's make a move from these herbs, go somewhere in private  
-I'm talking just me and you and the plane and the pilot, uh   ^c944f6
+I'm [[4. TALKING|talking]] just me and you and the plane and the pilot, uh   ^c944f6
 
 Just me and you, girl  
 Wooooaah ohhh  

@@ -106,7 +106,7 @@ You ain't gotta like me, but you feel me ^de3e05
 
 [Bridge: Kanye West]  
 Do y'all feel me? Really?  
-Get off Scott Free, I'm talking Ridley  
+Get off Scott Free, I'm [[4. TALKING|talking]] Ridley  
 Get off our knees, that's if you're with me  
 Get off your knees, that's if you're with me  
 Get off your knees and let's get free  

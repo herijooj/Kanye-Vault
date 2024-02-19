@@ -1,4 +1,4 @@
-# Burn Everthing
+# [[9. BURN|Burn]] Everthing
 
 [Spoken: Dave Chapelle]  
 (laughs)  
@@ -8,13 +8,13 @@ and that, Kanye is how you buy yourself some time
 (laughs)  
 
 [Verse 1: Kanye West]  
-Oh, burn everything, light gasoline  
-Oh, burn everything, light gasoline  
+Oh, [[9. BURN|burn]] everything, light gasoline  
+Oh, [[9. BURN|burn]] everything, light gasoline  
 Oh, like gasoline  
 Wife got Céline  
 That's not my thing  
 We got those tings, oh, I just can’t change  
-Burn everything, oh, burn everything
+[[9. BURN|Burn]] everything, oh, [[9. BURN|burn]] everything
 
 [Chorus: Sean Leon]  
 Storm look like lightning when I shine (Legend, legend)  
@@ -55,16 +55,16 @@ Didn't I tell you last time, I'm a motherfu*kin'—
 [Kanye West]  
 Legend  
 (They gon' know my name before I die)  
-Burn everything  
+[[9. BURN|Burn]] everything  
 (Storm look like lightning when I shine)  
 Legend, like gasoline  
 (They gon' know my name before I die)  
-Burn everything  
+[[9. BURN|Burn]] everything  
 (Storm look like lightning when I shine)  
-Oh, burn everything  
+Oh, [[9. BURN|burn]] everything  
 I just can't change  
 (Storm look like lightning when I shine)  
-Burn everything  
+[[9. BURN|Burn]] everything  
 (They gon' know my name before I die  
 They gon' know my name before I die)  
-Burn everything
+[[9. BURN|Burn]] everything

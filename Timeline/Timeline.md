@@ -44,7 +44,7 @@
 
 ## Yandhi
 
-## Jesus is King
+## Jesus is [[16. KING|King]]
 
 ## God’s Country
 
